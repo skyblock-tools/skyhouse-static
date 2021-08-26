@@ -1,0 +1,180 @@
+{
+    "default": {
+        "config": {
+            "background": 2286766697,
+            "sectionBoxes": 2571913594,
+            "optionBoxes": 3425709657,
+            "lightShade": 3710330191,
+            "darkShade": 3710001728
+        },
+        "selectionGUI": {
+            "background": 3712830057,
+            "shade": 3710001728,
+            "highlight": 3717304765,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 3717304765
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 3717304765
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3710001728
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3710001728
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 3717304765
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 3717304765
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3710001728
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3710001728
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4281874488,
+                    "background:hover": 4280558371,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4281874488,
+                    "background:hover": 4280558371,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+    },
+    "green": {
+        "config": {
+            "background": 2286577995,
+            "sectionBoxes": 2571729488,
+            "optionBoxes": 3425589553,
+            "lightShade": 3710209835,
+            "darkShade": 3710009382
+        },
+        "selectionGUI": {
+            "background": 3712641355,
+            "shade": 3710009382,
+            "highlight": 3717315989,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 3717315989
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 3717315989
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3710009382
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3710009382
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 3717315989
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 3717315989
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3710009382
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3710009382
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4278255360,
+                    "background:hover": 4280558371,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4281874488,
+                    "background:hover": 4280558371,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+    }
+}

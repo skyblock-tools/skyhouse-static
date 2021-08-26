@@ -1,0 +1,37 @@
+{
+    "contributors": [
+        {
+            "name": "pjones123",
+            "discord": "pjones123#6025",
+            "mc_uuid": "38184ab9506a42e69ecf65d5bc006f86",
+            "colour": "RED",
+            "url": "https://github.com/pjones123",
+            "note": ["\u00a7cI don't even play this game.\u00a7r"]
+        },
+        {
+            "name": "JohnDoesDev",
+            "discord": "JohnDoesDev#9898",
+            "mc_uuid": "72b592a6048a45b8bfb84fbfafc1f215",
+            "colour": "DARK_BLUE",
+            "url": "https://johnomeara.com",
+            "note": ["§bHello there!§r", "§r§3§mI didn't really work on the mod.§r", "§r§9Mostly a backend and frontend developer.§r"]
+        },
+        {
+            "name": "Septikai",
+            "discord": "Septikai#1676",
+            "mc_uuid": "168300e64e744a6d89a07b7cf8ad6a7d",
+            "colour": "BLUE",
+            "url": "https://github.com/Septikai",
+            "note": ["\u00a77I exist\u00a7r"]
+        },
+        {
+            "name": "IceFox",
+            "discord": "YBP_IceFox#3675",
+            "mc_uuid": "2c8bc2fab4674e858bc42168ec700d6e",
+            "colour": "GOLD",
+            "url": "https://icefox.ga",
+            "note": ["\u00A7fOwner of the guild \u00A76'icefox'\u00A7f on Hypixel\u00a7r", "\u00A7fLead artist for Skyhouse and Skyblock Tools\u00a7r"
+            ]
+        }
+    ]
+}
