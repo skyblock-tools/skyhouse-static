@@ -1,0 +1,21 @@
+{
+    "levels": [
+        [
+            "REND",
+            "SWARM",
+            "ULTIMATE_WISE"
+        ],
+        [
+            "SOUL_EATER-5",
+            "ONE_FOR_ALL"
+        ],
+        [
+            "WISDOM",
+            "LEGION",
+            "LAST_STAND"
+        ]
+    ],
+    "keep": [
+        "CHIMERA"
+    ]
+}
