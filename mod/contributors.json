@@ -32,6 +32,14 @@
             "url": "https://icefox.ga",
             "note": ["\u00A7fOwner of the guild \u00A76'icefox'\u00A7f on Hypixel\u00a7r", "\u00A7fLead artist for Skyhouse and Skyblock Tools\u00a7r"
             ]
+        },
+        {
+            "name": "MrLobaker_",
+            "discord": "mrlobaker#2037",
+            "mc_uuid": "648155d30a6744d6913fdf5ebf436b4e",
+            "colour": "AQUA",
+            "url": "https://github.com/mrlobaker",
+            "note": ["\u00a73Backend developer.\u00a7r"]
         }
     ]
 }
