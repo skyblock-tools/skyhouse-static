@@ -7,6 +7,12 @@
             "lightShade": 3710330191,
             "darkShade": 3710001728
         },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+        },
         "selectionGUI": {
             "background": 3712830057,
             "shade": 3710001728,
@@ -96,6 +102,12 @@
             "lightShade": 3710209835,
             "darkShade": 3710009382
         },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+        },
         "selectionGUI": {
             "background": 3712641355,
             "shade": 3710009382,
@@ -162,14 +174,14 @@
         "components": {
             "dropdown": {
                 "selected": {
-                    "background:default": 4278255360,
-                    "background:hover": 4280558371,
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
                     "text:default": 4294967295,
                     "text:hover": 4294967295
                 },
                 "options": {
-                    "background:default": 4281874488,
-                    "background:hover": 4280558371,
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
                     "text:default": 4294967295,
                     "text:hover": 4294967295,
                     "separator": 4278190080
