@@ -1,0 +1,13 @@
+{
+  "_config": {
+    "not_found": "KEY NOT FOUND"
+  },
+  "profile_page": {
+    "generated_mod_token": "Generated Mod Token (click to copy)",
+    "minecraft_username": "Minecraft Username/IGN",
+    "sign_out": "Sign Out",
+    "skyhouse_plus": "Skyhouse+",
+    "upgrade": "Upgrade",
+    "username": "Username"
+  }
+}
