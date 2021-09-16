@@ -188,5 +188,100 @@
                 }
             }
         }
+        
+    "aqua":{
+        "config": {
+            "background": 3141822815,
+            "sectionBoxes": 3146503875,
+            "optionBoxes": 3146174396,
+            "lightShade": 3146503875,
+            "darkShade": 3141822815
+        },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+	},
+        "selectionGUI": {
+            "background": 3146503875,
+            "shade": 3141822815,
+            "highlight": 3147822559,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 2787354563
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 2787354563
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 2778908346
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 2779557803
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 2778908346
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 2778908346
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 2778840242
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 2778840242
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
     }
 }
