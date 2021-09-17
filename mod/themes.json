@@ -213,56 +213,438 @@
                     "top": 0,
                     "right": 254,
                     "bottom": 2,
-                    "colour": 2787354563
+                    "colour": 3147822559
                 },
                 {
                     "left": 0,
                     "top": 0,
                     "right": 2,
                     "bottom": 254,
-                    "colour": 2787354563
+                    "colour": 3147822559
                 },
                 {
                     "left": 0,
                     "top": 254,
                     "right": 256,
                     "bottom": 256,
-                    "colour": 2778908346
+                    "colour": 3141822815
                 },
                 {
                     "left": 254,
                     "top": 0,
                     "right": 256,
                     "bottom": 256,
-                    "colour": 2779557803
+                    "colour": 3141822815
                 },
                 {
                     "left": 0,
                     "top": -32,
                     "right": 254,
                     "bottom": -30,
-                    "colour": 2778908346
+                    "colour": 3147822559
                 },
                 {
                     "left": 0,
                     "top": -32,
                     "right": 2,
                     "bottom": -2,
-                    "colour": 2778908346
+                    "colour": 3147822559
                 },
                 {
                     "left": 0,
                     "top": -2,
                     "right": 256,
                     "bottom": 0,
-                    "colour": 2778840242
+                    "colour": 3141822815
                 },
                 {
                     "left": 254,
                     "top": -32,
                     "right": 256,
                     "bottom": 0,
-                    "colour": 2778840242
+                    "colour": 3141822815
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+    },
+    "red":{
+        "config": {
+            "background": 2582979887,
+            "sectionBoxes": 2580946986,
+            "optionBoxes": 2582979887,
+            "lightShade": 2580946986,
+            "darkShade": 2573799444
+        },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+	},
+        "selectionGUI": {
+            "background": 3151372330,
+            "shade": 3144224788,
+            "highlight": 3151372330,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 255,
+                    "bottom": 2,
+                    "colour": 3154051127
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 3154051127
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3144220695
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3144220695
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 3154051127
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 3154051127
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3144220695
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3144220695
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+      
+    },
+    "yellow":{
+        "config": {
+            "background": 2583027483,
+            "sectionBoxes": 2583027739,
+            "optionBoxes": 2580659735,
+            "lightShade": 2583027739,
+            "darkShade": 2573819660
+        },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+	},
+        "selectionGUI": {
+            "background": 3153452827,
+            "shade": 3144245004,
+            "highlight": 3153453083,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 2583027483
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 2583027483
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 2573819660
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 2573819660
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 2583027739
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 2583027739
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 2582172442
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 2582172442
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+    },
+    "light":{
+        "config": {
+            "background": 2580729044,
+            "sectionBoxes": 2582834165,
+            "optionBoxes": 2582834165,
+            "lightShade": 2582834165,
+            "darkShade": 2573755497
+        },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+	},
+        "selectionGUI": {
+            "background": 3438472181,
+            "shade": 3429393513,
+            "highlight": 3437682664,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3429393513
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3429393513
+                }
+            ]
+        },
+        "components": {
+            "dropdown": {
+                "selected": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295
+                },
+                "options": {
+                    "background:default": 4280956971,
+                    "background:hover": 4279770905,
+                    "text:default": 4294967295,
+                    "text:hover": 4294967295,
+                    "separator": 4278190080
+                }
+            }
+        }
+      
+    },
+    "dark":{
+        "config": {
+            "background": 2570268977,
+            "sectionBoxes": 2572439889,
+            "optionBoxes": 2572439889,
+            "lightShade": 2577833887,
+            "darkShade": 2570268977
+        },
+        "creationGUI": {
+            "ref": "selectionGUI"
+        },
+        "flipListGUI": {
+            "ref": "selectionGUI"
+	},
+        "selectionGUI": {
+            "background": 3428077905,
+            "shade": 3425906993,
+            "highlight": 3433471903,
+            "lines": [
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 254,
+                    "bottom": 2,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 0,
+                    "top": 0,
+                    "right": 2,
+                    "bottom": 254,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 0,
+                    "top": 254,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 254,
+                    "top": 0,
+                    "right": 256,
+                    "bottom": 256,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 254,
+                    "bottom": -30,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 0,
+                    "top": -32,
+                    "right": 2,
+                    "bottom": -2,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 0,
+                    "top": -2,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3425906993
+                },
+                {
+                    "left": 254,
+                    "top": -32,
+                    "right": 256,
+                    "bottom": 0,
+                    "colour": 3425906993
                 }
             ]
         },
