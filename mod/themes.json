@@ -188,8 +188,8 @@
                 }
             }
         }
-        
-    "aqua":{
+    },   
+    "aqua": {
         "config": {
             "background": 3141822815,
             "sectionBoxes": 3146503875,
