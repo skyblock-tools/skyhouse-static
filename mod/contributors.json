@@ -30,8 +30,7 @@
             "mc_uuid": "2c8bc2fab4674e858bc42168ec700d6e",
             "colour": "GOLD",
             "url": "https://icefox.ga",
-            "note": ["\u00A7fOwner of the guild \u00A76'icefox'\u00A7f on Hypixel\u00a7r", "\u00A7fLead artist for Skyhouse and Skyblock Tools\u00a7r"
-            ]
+            "note": ["\u00A7fOwner of the guild \u00A76'icefox'\u00A7f on Hypixel\u00a7r", "\u00A7fLead artist for Skyhouse and Skyblock Tools\u00a7r"]
         },
         {
             "name": "MrLobaker_",
@@ -40,6 +39,14 @@
             "colour": "AQUA",
             "url": "https://github.com/mrlobaker",
             "note": ["\u00a73Backend developer.\u00a7r"]
+        },
+        {
+            "name": "GoobyDev",
+            "discord": "Gooby#0205",
+            "mc_uuid": "ff19d5e962d640a69e5604cd7f121563",
+            "colour": "AQUA",
+            "url": "https://github.com/codeyarch",
+            "note": ["\u00A73Senior beta tester and contributor.\u00a7r", "\u00A73Do you ever dream of red snails?\u00a7r"]
         }
     ]
 }
