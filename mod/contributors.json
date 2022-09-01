@@ -17,20 +17,20 @@
             "note": ["\u00a7cI don't even play this game.\u00a7r"]
         },
         {
-            "name": "JohnDoesDev",
-            "discord": "JohnDoesDev#9898",
-            "mc_uuid": "72b592a6048a45b8bfb84fbfafc1f215",
-            "colour": "LIGHT_PURPLE",
-            "url": "https://johnomeara.com",
-            "note": ["1+1=3"]
-        },
-        {
             "name": "Septikai",
             "discord": "Septikai#1676",
             "mc_uuid": "168300e64e744a6d89a07b7cf8ad6a7d",
             "colour": "BLUE",
             "url": "https://septikai.me",
             "note": ["\u00a77I exist\u00a7r"]
+        },
+        {
+            "name": "JohnDoesDev",
+            "discord": "JohnDoesDev#9898",
+            "mc_uuid": "72b592a6048a45b8bfb84fbfafc1f215",
+            "colour": "LIGHT_PURPLE",
+            "url": "https://johnomeara.com",
+            "note": ["1+1=3"]
         },
         {
             "name": "IceFox",
